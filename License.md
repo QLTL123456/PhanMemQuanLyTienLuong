@@ -5,3 +5,4 @@
 <li>Giấy phép MIT còn có tên gọi khác là giấy phép X11, Giấy phép MIT đã được sử dụng nhiều cho các phần mềm cho các hệ thống X Window.</li>
 <li>Giấy phép MIT cho phép tái sử dụng lại mã nguồn mở tỏng các phần mềm độc quyền với điều kiện các điều khoản trong giấy phép được đưa vào phần mềm độc quyền</li>
  <li>Một số phần mềm sử dụng cả hai loại giấy phép như Ứng dụng mã JavaScript thư viện jQuery được cấp giấy phép theo cả MIT và Giấy phép Công cộng GNU.</li>
+
