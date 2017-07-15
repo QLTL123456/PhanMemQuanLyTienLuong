@@ -256,3 +256,4 @@ Hiện nay hai giấy phép GNU và BSD, theo thống kê, là hai giấy phép 
 – Ngược lại, với những sản phẩm lớn, phức tạp, nhà phát hành lúc này có thể quan tâm đến giấy phép GNU, và thu lợi nhuận từ việc bảo hành, phân phối, đào tạo hướng dẫn sử dụng.
 
 – Nếu nhà phát hành không quan tâm đến lợi nhuận, thì cả BSD và GNU đều tốt, và phần lớn mã nguồn trên trang web http://sourceforge.net/ mang giấy phép GNU.
+
