@@ -1,6 +1,1 @@
-Mô hình 3 lớp (3-layers) là gì?
-Không như 3-Tiers có tính vật lý, 3-Layers có tính logic (mỗi layer có 1 công việc) và là 1 thành phần của 3-Tiers. Gồm 3 lớp (not Class) chính:
-+ Graphic User Interface (GUI): Thành phần giao diện, là các form (windows form, webform, mobile form) của chương trình tương tác với người sử dụng.
-+ Business Logic Layer (BLL): Xử lý các nghiệp vụ của chương trình như tính toán, xử lý hợp lệ và toàn vẹn về mặt dữ liệu.
-+ Data Access Layer (DAL): Tầng giao tiếp với các hệ quản trị CSDL
-Trong 1 số trường hợp vì lượng thông tin gởi nhiều ta có thể dùng Data Tranfer Object (DTO) để chuyển đối tượng hoặc danh sách đối tượng giữa các tầng với nhau cho tiện dụng. (Entity- Thuc the)
+
