@@ -1,4 +1,4 @@
-<h4 style="color:red; text-align:center;">DANH SÁCH LỖI</h4>
+<h5>DANH SÁCH LỖI</h5>
 <hr>
 <p>- Không thống nhất khi đặt tên biến nếu không thống nhất về cách đặt tên các cơ sở dữ liệu hoặc các biến trong lập trình thì người lập trình rất dễ bị lỗi trong quá trình xây dựng hệ thống.</p>
 <p>- Các lỗi cú pháp</p>
