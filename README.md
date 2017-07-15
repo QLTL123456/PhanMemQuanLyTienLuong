@@ -1,4 +1,3 @@
-# PhanMemQuanLyTienLuong
 <h3 style="color:red; text-align:center;"> XÂY DỰNG PHẦN MỀM QUẢN LÝ TIỀN LƯƠNG </h3>
 <ul> <strong>Thành viên thực hiện dự án</strong></pl>
 <li> Phạm Văn Thành ( trưởng nhóm)</li>
