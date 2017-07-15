@@ -22,7 +22,5 @@
 <li> Giải quyết hết mọi vấn đề về việc thưởng phạt theo từng quý từng năm.</li>
 <li> Nâng cáo hỗ trợ các tiện ích về cảnh báo: Hết hạn hợp đồng, sinh nhật, cảnh báo đến hạn tăng lương, chứng minh thư…</li>
 <li>Hệ thống báo cáo đa dạng, chi tiết theo từng module chức năng trong phần mềm.</li>
-<hr>
-<p> Chi tiết liên hệ: Phạm Văn Thành</p>
-<p>SDT: 0995408023</p>
+
 
