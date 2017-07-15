@@ -3,7 +3,7 @@
 <ul> <strong>Thành viên thực hiện dự án</strong></pl>
 <li> Phạm Văn Thành ( trưởng nhóm)</li>
 <li> Nguyễn Thanh Thảo </li>
-<li> Phan Minh Hướng </li>
+<li> Phan Minh Hướng </li></ul>
 <hr>
 <h3 style="color:#1aa3ff;"><strong> Mục têu sử dụng</strong> </h3>
 <li> Tiết kiệm công sức con người.</li>
