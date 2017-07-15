@@ -5,6 +5,10 @@
 <li> Nguyễn Thanh Thảo </li>
 <li> Phan Minh Hướng </li></ul>
 <hr>
+<h3 style="color:#1aa3ff;">Mô tả dự án </h3>
+<p> Tiền lương là một vấn đề không hề đơn giản, bởi trong quan hệ giữa doanh nghiệp và người lao động tồn tại mâu thuẫn thông qua vấn đề tiền lương. Đứng dưới góc độ doanh nghiệp thì tiền lương được coi là một khoản chi phí, còn đối với người lao động thì tiền lương lại chính là khoản thu nhập giúp họ tái sản xuất sức lao động. Vì thế giải quyết tốt mâu thuẫn cố hữu này đã và đang trở thành bài toán đặt ra đối với doanh nghiệp, tổ chức.</p>
+<p> Từ những phân tích trên ta thấy cần thiết phải có một cách nào đó để quản lý tốt vấn đề con người hay nhân lực của công ty và vấn đề tiền lương để doanh nghiệp vừa có một đội ngũ mạnh về chuyên môn, tốt về phẩm chất và giỏi về trí tuệ, lại vừa giải quyết tốt vấn đề an sinh của nhân viên. Hơn thế nữa, ngày nay, việc ứng dụng công nghệ thông tin đã trở nên phổ biến trong hầu hết mọi cơ quan, doanh nghiệp, đặc biệt là việc áp dụng các giải pháp tin học trong công tác quản lý. Trong đó công tác quản lý nhân sự, quản lý tiền lương là một lĩnh vực cần thiết và quan trọng đối với tất cả các doanh nghiệp. Vì vậy nhóm em đã lựa chọn đề tài “Xây dựng phần mềm quản lý tiền lương của công ty TNHH Công nghệ và Thương mại THTN” là bài tập lớn của mình. Do trình độ và thời gian có hạn nên chắc chắn không thể không tránh khỏi những thiếu sót. Nhóm em rất mong được sự hướng dẫn của các thầy cô, của những người làm nghiên cứu và những người làm công tác kế toán để bài tập lớn này của nhóm em được hoàn thiện hơn.</p>
+<hr>
 <h3 style="color:#1aa3ff;"><strong> Mục têu sử dụng</strong> </h3>
 <li> Tiết kiệm công sức con người.</li>
 <li> Tiết kiệm thời gian.</li>
@@ -27,3 +31,6 @@
 <li>Giấy phép MIT còn có tên gọi khác là giấy phép X11, Giấy phép MIT đã được sử dụng nhiều cho các phần mềm cho các hệ thống X Window.</li>
 <li>Giấy phép MIT cho phép tái sử dụng lại mã nguồn mở tỏng các phần mềm độc quyền với điều kiện các điều khoản trong giấy phép được đưa vào phần mềm độc quyền</li>
  <li>Một số phần mềm sử dụng cả hai loại giấy phép như Ứng dụng mã JavaScript thư viện jQuery được cấp giấy phép theo cả MIT và Giấy phép Công cộng GNU.</li>
+<hr>
+<p> Chi tiết liên hệ: Phạm Văn Thành</p>
+<p>SDT: 0995408023</p>
