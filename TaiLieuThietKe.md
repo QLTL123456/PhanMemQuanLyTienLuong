@@ -158,7 +158,7 @@ DFD mức đỉnh chức năng 3 – Quản lý Tiền Lương
 <p>Các thuộc tính: MANV, DIPTHUONG, TIENTHUONG.</p>
 <p>Mô tả: mỗi nhân viên sẽ nhận được tiền thưởng vào những dịp lễ.</p>
 
-Mô hình ERD:
+<p>Mô hình ERD:</p>
 
 ![image](https://user-images.githubusercontent.com/27814649/28243875-276efbee-6a04-11e7-83fc-7716184ed4c4.png)
 
